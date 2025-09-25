@@ -16,7 +16,8 @@ export const ROLES = [
   'Full-Stack Developer',
   'Blockchain Explorer',
   'Problem Solver', 
-  'Tech Enthusiast'
+  'Tech Enthusiast',
+  'Fast Learner'
 ];
 
 export const FUN_FACTS = [
