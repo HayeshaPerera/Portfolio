@@ -49,7 +49,7 @@ export const TECHNICAL_SKILLS = {
     { name: "CSS3", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
     { name: "Redux", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" },
     { name: "PHP", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" },
-    { name: "Laravel", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" }
+    { name: "Laravel", logo: "https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" }
   ],
   "Database": [
     { name: "SQLite", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" },
@@ -62,9 +62,9 @@ export const TECHNICAL_SKILLS = {
     { name: "Figma", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" }
   ],
   "Blockchain & Web3": [
-    { name: "Web3", logo: "https://cryptologos.cc/logos/ethereum-eth-logo.svg" },
+    { name: "Web3", logo: "https://user-images.githubusercontent.com/5018167/212202171-d66febd2-4ed8-4342-b2a5-59a2930833cb.png" },
     { name: "XRPL", logo: "https://upload.wikimedia.org/wikipedia/commons/f/fb/XRP_Ledger_logo.jpg" },
-    { name: "NFT", logo: "https://cryptologos.cc/logos/ethereum-eth-logo.svg" }
+    { name: "NFT", logo: "https://cdn-icons-png.flaticon.com/512/6298/6298900.png" }
   ]
 };
 
