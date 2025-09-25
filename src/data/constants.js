@@ -4,7 +4,7 @@ export const PERSONAL_INFO = {
   phone: "+94765662025",
   location: "Colombo, Sri Lanka",
   github: "https://github.com/HayeshaPerera",
-  linkedin: "https://linkedin.com/in/hayesha-perera",
+  linkedin: "https://www.linkedin.com/in/hayesha-perera-6448a9296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTjuJCbScT2OUl2n7sC3V6w%3D%3D",
   university: "University of Moratuwa",
   degree: "B.Sc.(Hons) in Information Technology and Management",
   facebook: "https://www.facebook.com/share/16yuW1hgj1/?mibextid=wwXIfr",
