@@ -76,7 +76,7 @@ const Projects = () => {
         "/images/projects/sports-booking/booking.jpg",
       ],
       technologies: ["React", "SQLite", "Web3 Auth", "Node.js","HotPocket smart contracts"],
-      githubUrl: "https://github.com/HayeshaPerera/Courtify-"
+      githubUrl: "https://github.com/Thameeshi/court-booking-system.git"
     },
     {
       title: "Cloud Cost Optimizer",
